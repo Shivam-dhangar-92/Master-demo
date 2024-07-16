@@ -1,2 +1,2 @@
 # Master-demo
-first repo
+first repository
